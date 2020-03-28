@@ -1,6 +1,6 @@
 # fruit_drag
 
-A new Flutter project.
+This is a child's game, simply drag the fruit to the colour matching the fuit to get a point.
 
 ## Getting Started
 

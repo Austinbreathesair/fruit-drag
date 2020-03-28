@@ -47,6 +47,7 @@ class FruitGameState extends State<FruitGame> {
       appBar: AppBar(
         title: Text('Score ${score.length} / 6'),
         backgroundColor: Colors.blueAccent[200]),
+    
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.refresh),
         onPressed: () {
